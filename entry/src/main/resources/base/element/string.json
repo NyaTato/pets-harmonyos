@@ -1,0 +1,296 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "宠物领养平台模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "宠物领养平台入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "宠物领养平台"
+    },
+    {
+      "name": "app_name",
+      "value": "宠物领养平台"
+    },
+    {
+      "name": "app_slogan",
+      "value": "为流浪宠物找一个温暖的家"
+    },
+    {
+      "name": "login_title",
+      "value": "登录"
+    },
+    {
+      "name": "register_title",
+      "value": "注册"
+    },
+    {
+      "name": "pet_list_title",
+      "value": "宠物列表"
+    },
+    {
+      "name": "pet_detail_title",
+      "value": "宠物详情"
+    },
+    {
+      "name": "apply_title",
+      "value": "领养申请"
+    },
+    {
+      "name": "my_apply_title",
+      "value": "我的申请"
+    },
+    {
+      "name": "address_list_title",
+      "value": "地址管理"
+    },
+    {
+      "name": "mine_title",
+      "value": "个人中心"
+    },
+    {
+      "name": "post_list_title",
+      "value": "经验分享"
+    },
+    {
+      "name": "comment_title",
+      "value": "评论"
+    },
+    {
+      "name": "feedback_title",
+      "value": "意见反馈"
+    },
+    {
+      "name": "notice_title",
+      "value": "系统公告"
+    },
+    {
+      "name": "match_test_title",
+      "value": "宠物匹配测试"
+    },
+    {
+      "name": "contract_title",
+      "value": "领养合同"
+    },
+    {
+      "name": "loading_text",
+      "value": "正在加载..."
+    },
+    {
+      "name": "no_data",
+      "value": "暂无数据"
+    },
+    {
+      "name": "no_pet",
+      "value": "暂无宠物"
+    },
+    {
+      "name": "no_notice",
+      "value": "暂无公告"
+    },
+    {
+      "name": "no_post",
+      "value": "暂无帖子"
+    },
+    {
+      "name": "no_comment",
+      "value": "暂无评论"
+    },
+    {
+      "name": "no_apply",
+      "value": "暂无申请"
+    },
+    {
+      "name": "no_address",
+      "value": "暂无地址"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索宠物名称、类型或描述..."
+    },
+    {
+      "name": "login_button",
+      "value": "登录"
+    },
+    {
+      "name": "register_button",
+      "value": "注册"
+    },
+    {
+      "name": "logout_button",
+      "value": "退出登录"
+    },
+    {
+      "name": "submit_button",
+      "value": "提交"
+    },
+    {
+      "name": "cancel_button",
+      "value": "取消"
+    },
+    {
+      "name": "confirm_button",
+      "value": "确定"
+    },
+    {
+      "name": "save_button",
+      "value": "保存"
+    },
+    {
+      "name": "edit_button",
+      "value": "编辑"
+    },
+    {
+      "name": "delete_button",
+      "value": "删除"
+    },
+    {
+      "name": "add_button",
+      "value": "添加"
+    },
+    {
+      "name": "view_more",
+      "value": "查看更多"
+    },
+    {
+      "name": "view_all",
+      "value": "查看全部"
+    },
+    {
+      "name": "back_button",
+      "value": "返回"
+    },
+    {
+      "name": "home_button",
+      "value": "首页"
+    },
+    {
+      "name": "recommended_pets",
+      "value": "推荐宠物"
+    },
+    {
+      "name": "latest_notices",
+      "value": "最新公告"
+    },
+    {
+      "name": "pet_match",
+      "value": "宠物匹配"
+    },
+    {
+      "name": "pet_calendar",
+      "value": "养宠日历"
+    },
+    {
+      "name": "experience_share",
+      "value": "经验分享"
+    },
+    {
+      "name": "adopt_pet",
+      "value": "领养宠物"
+    },
+    {
+      "name": "pet_status_adoptable",
+      "value": "可领养"
+    },
+    {
+      "name": "pet_status_adopted",
+      "value": "已领养"
+    },
+    {
+      "name": "pet_type_cat",
+      "value": "猫"
+    },
+    {
+      "name": "pet_type_dog",
+      "value": "狗"
+    },
+    {
+      "name": "pet_type_other",
+      "value": "其他"
+    },
+    {
+      "name": "pet_gender_male",
+      "value": "公"
+    },
+    {
+      "name": "pet_gender_female",
+      "value": "母"
+    },
+    {
+      "name": "vaccine_status_vaccinated",
+      "value": "已接种"
+    },
+    {
+      "name": "vaccine_status_not_vaccinated",
+      "value": "未接种"
+    },
+    {
+      "name": "sterilize_status_sterilized",
+      "value": "已绝育"
+    },
+    {
+      "name": "sterilize_status_not_sterilized",
+      "value": "未绝育"
+    },
+    {
+      "name": "health_status_healthy",
+      "value": "健康"
+    },
+    {
+      "name": "health_status_sick",
+      "value": "生病"
+    },
+    {
+      "name": "apply_status_pending",
+      "value": "待审核"
+    },
+    {
+      "name": "apply_status_approved",
+      "value": "已通过"
+    },
+    {
+      "name": "apply_status_rejected",
+      "value": "已驳回"
+    },
+    {
+      "name": "apply_status_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "feedback_status_pending",
+      "value": "待处理"
+    },
+    {
+      "name": "feedback_status_processing",
+      "value": "处理中"
+    },
+    {
+      "name": "feedback_status_resolved",
+      "value": "已解决"
+    },
+    {
+      "name": "mood_happy",
+      "value": "开心"
+    },
+    {
+      "name": "mood_normal",
+      "value": "普通"
+    },
+    {
+      "name": "mood_sad",
+      "value": "委屈"
+    },
+    {
+      "name": "mood_lonely",
+      "value": "孤独"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "需要网络权限来加载图片和获取数据"
+    }
+  ]
+}
